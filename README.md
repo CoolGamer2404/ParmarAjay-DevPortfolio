@@ -2,6 +2,8 @@
 This is my portfolio
 
 1. Oathbearer (Stylized Soulslike - Steam)
+Link : https://share.google/1yuqmkllUKUAgQtGv
+
 Focus: Advanced Gameplay Systems & RPG Architecture
 
 Role: Lead Developer (C# / Unity)
@@ -17,6 +19,8 @@ Optimization: Implemented strict draw-call batching and GPU instancing to mainta
 Tech: C#, Unity URP, ScriptableObjects, FSM Architecture.
 
 2. The Dark Story (Horror/Survival - Steam & itch.io)
+Link : https://share.google/FPySOPJJ2hz8jaBKm
+
 Focus: Performance Optimization & PC Porting
 
 Role: Lead Developer (C# / Unity)
@@ -30,6 +34,8 @@ Atmospheric Engineering: Developed custom scripts for dynamic lighting triggers 
 Tech: Unity, C#, Android-to-PC Porting, Performance Profiling.
 
 3. Ball Runner (Casual/Arcade - Google Play)
+Link : https://play.google.com/store/apps/details?id=com.MyDreamGame.BallRunner&pcampaignid=web_share
+
 Focus: Mobile Game Loops & UX Logic
 
 Role: Lead Developer (C# / Unity)
@@ -45,6 +51,11 @@ Adaptive Difficulty: Implemented a system that scales obstacle speed and complex
 Tech: C#, Mobile Optimization, Procedural Generation.
 
 4. itch.io Collection (MDG Studio)
+Link : https://share.google/EH1EXHGNBc9wkJxE6
+Link : https://share.google/8j1bIWskO8ONzxT29
+Link : https://share.google/AHTRby2BfofsEJs6R
+Link : https://share.google/AHTRby2BfofsEJs6R
+
 Focus: Rapid Prototyping & Game Jam Engineering
 
 Projects Featured: Glitchwalker, Shadow of the Dragon King, Mission Monster.
