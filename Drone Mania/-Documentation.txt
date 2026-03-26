@@ -1,0 +1,2 @@
+About Game : This is 3d BattleRoyale game where player controlls Drones to fight agains enemies in huge map.This game contains multiplayer with PvPvE(Player v. Player v. Environment) System.Big drone bosses spawns with lots of small environmental hazards.Player goal is to fight against other hostile players and environmental hazards and last surviving team wins.
+

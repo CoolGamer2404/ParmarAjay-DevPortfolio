@@ -1,0 +1,2 @@
+About Game : This is 2d game where player goal is to eat as much as falling food to make protagnist achive high fat.Eating health food decreses fat while junk food gives higher fat amount.
+
