@@ -1,0 +1,14 @@
+# Ignore all Unity metadata
+*.meta
+
+# Ignore Unity system folders (they are huge and messy)
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/UserSettings/
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
