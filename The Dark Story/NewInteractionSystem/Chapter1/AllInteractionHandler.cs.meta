@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: 53df877656fa13a4d97378b87c69e0b4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - inputActionAsset: {fileID: -944628639613478452, guid: 4419d82f33d36e848b3ed5af4c8da37e, type: 3}
+  - Equippeditem: {instanceID: 0}
+  - _interactablesAnimationHandler: {instanceID: 0}
+  - rigidbody: {instanceID: 0}
+  - ItemSlot: {instanceID: 0}
+  - player: {instanceID: 0}
+  - lookingAtObject: {instanceID: 0}
+  - currentPaintingRigidbody: {instanceID: 0}
+  - currentPlankRigidbody: {instanceID: 0}
+  - Wire1: {instanceID: 0}
+  - Wire2: {instanceID: 0}
+  - Box: {instanceID: 0}
+  - BoxCell: {instanceID: 0}
+  - playVideo: {instanceID: 0}
+  - uiText: {instanceID: 0}
+  - safe: {instanceID: 0}
+  - safe2: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
